@@ -13,8 +13,8 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ## Program:
 ```
 #Program to find the eigen values and eigen vectors.
-#Developed by: K.Dilli Babu
-#RegisterNumber:212224110015
+#Developed by: K.KAAVIYAN
+#RegisterNumber:212224240066
 import numpy as np
 
 # Define the matrix
